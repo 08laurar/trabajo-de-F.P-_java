@@ -35,7 +35,7 @@ public class ejercicio1 {
                 mensaje="el dia  que  coloco no  existe";
             }
             //datos de salida
-            System.out.println("ese dia toca el curso de : "+mensaje);    
+            System.out.println("ese dia toca el curso de : "+mensaje);  
                 
     }         
             
