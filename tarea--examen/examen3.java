@@ -59,7 +59,7 @@ public class examen3{
       System.out.print("dame el segundo valor de tu modulo: ");
       valor2 = in.nextDouble();
       resultado = valor1%valor2;
-      System.out.print("el resultado de tu modulo es: "+resultado);  
+      System.out.print("el resultado de tu modulo es: "+resultado);
     }
     
   }
